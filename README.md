@@ -2,6 +2,10 @@
 **Name**: Shreyas Patil 
 **Registration Number**: 21BCE11682
 
+#
+
+![image](https://github.com/user-attachments/assets/753dfffc-a5b2-4e26-8524-bf94e4aa13c6)
+
 
 # Turn-based Chess-like Game with Websocket Communication
 
